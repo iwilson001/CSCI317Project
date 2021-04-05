@@ -1,0 +1,15 @@
+Guard A
+Log In: 1:58 AM
+Log Out: 5:46 AM
+Guard B
+Log In: 5:57 AM
+Log Out: 10:31 AM
+Guard C
+Log In: 10:32 AM
+Log Out: 11:12 AM
+Guard C 
+Log In: 11:46 AM
+Log Out: 2:15 PM
+Guard D
+Log In: 5:28 PM
+Log Out: 1:55 AM
