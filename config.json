@@ -1,0 +1,12 @@
+{
+  "gfservices": {
+    "server": "https://ota.nvidia.com/GFE/",
+    "version": "v1.0"
+  },
+  "jarvis": {
+    "server": "accounts.nvgs.nvidia.com",
+    "clientId": "135333107684344109",
+    "clientDescription": "NVIDIA Web Helper",
+    "userConsentRefreshWaitMins": 1440
+  }
+}
